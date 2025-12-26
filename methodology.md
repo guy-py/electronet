@@ -81,23 +81,14 @@ The ElectroNet device utilizes electrocoagulation principles to destabilize coll
    - **Observed limitation:** Minor graphite particulate leaching into treated water
    - **Assumption:** Graphite particles do not interfere with PVC detection in analytical methods (FTIR spectroscopic fingerprints are distinct; DLS measures size distribution regardless of particle composition)
 
-**Configuration Parameters:**
-- **Number of electrodes:** [Placeholder - to be specified]
-- **Electrode dimensions:** [Placeholder - to be specified]
-- **Inter-electrode spacing:** [Placeholder - to be specified]
-- **Electrode arrangement:** [Placeholder - parallel plate/concentric/other configuration]
-
 ### 3.3 Electrical Parameters
 - **Applied voltage:** 9 V DC
 - **Current type:** Direct current (DC)
-- **Power source:** [Placeholder - battery/DC power supply]
-- **Current density:** [Placeholder - to be calculated from electrode surface area]
+- **Power source:** battery
 
 ### 3.4 Operational Configuration
-- **System type:** [Placeholder - batch/continuous flow]
 - **Treatment volume:** Approximately 250 mL per sample
-- **Treatment duration:** [Placeholder - minutes]
-- **Agitation/mixing:** [Placeholder - static/stirred/flow-induced]
+- **Treatment duration:** 60 minutes
 - **Temperature:** Ambient laboratory temperature (~25°C, uncontrolled)
 
 ---
@@ -110,23 +101,21 @@ The ElectroNet device utilizes electrocoagulation principles to destabilize coll
 3. Initial water sample characteristics documented
 
 ### 4.2 Treatment Procedure
-**[Placeholder for detailed step-by-step treatment protocol]**
 
 1. Pre-treatment sample collection (B01)
 2. Transfer of water sample to ElectroNet treatment chamber
 3. Application of 9V potential across graphite electrodes
-4. Treatment for [X] minutes
+4. Treatment for 60 minutes
 5. Power disconnection
-6. Post-treatment settling period: [X] minutes
+6. Post-treatment settling period: 60 minutes
 7. Sample collection for analysis (B04)
 
 ### 4.3 Post-Treatment Processing
 
 **Particle Separation Method:**
-[Placeholder - describe filtration/sedimentation/centrifugation approach]
-- **Separation technique:** [Filter paper/membrane filtration/settling]
-- **Filter specifications:** [Pore size, material]
-- **Filtration duration:** [Time period]
+- **Separation technique:** membrane filtration
+- **Filter specifications:** Pore size <0.05mm
+- **Filtration duration:** 60 minutes
 
 ---
 
@@ -158,7 +147,6 @@ Testing conducted on **December 15, 2025** at Universiti Sains Malaysia, Kampus 
 
 **Instrument Protocol:**
 - Instrument operated by USM laboratory personnel
-- [Placeholder: number of measurements per sample, temperature, equilibration time]
 
 **Key Results:**
 - **B01 (Before):** Average particle size = 1129 nm (1.1 μm), Zeta potential = -20.3 mV
@@ -172,14 +160,6 @@ Testing conducted on **December 15, 2025** at Universiti Sains Malaysia, Kampus 
 **Measurement Principle:**
 - Infrared absorption spectroscopy identifying molecular vibrations characteristic of PVC chemical bonds (C-Cl stretching, C-H bending)
 
-**Sample Preparation:**
-- [Placeholder: dried particles on substrate/ATR crystal/KBr pellet]
-
-**Analysis:**
-- Spectral range: [Placeholder - typically 4000-400 cm⁻¹]
-- Resolution: [Placeholder - typically 4 cm⁻¹]
-- Number of scans: [Placeholder]
-
 **Expected Outcome:**
 - Confirmation of PVC fingerprint in contaminated samples
 - Verification that target contaminant is indeed PVC
@@ -190,11 +170,6 @@ Testing conducted on **December 15, 2025** at Universiti Sains Malaysia, Kampus 
 
 **Measurement Principle:**
 - Light absorption/transmission through sample across ultraviolet and visible wavelength range
-
-**Parameters:**
-- Wavelength range: [Placeholder - typically 200-800 nm]
-- Path length: [Placeholder - cuvette size]
-- Baseline: [Blank water sample]
 
 **Applications:**
 - Turbidity assessment (indirect measure of particle concentration)
