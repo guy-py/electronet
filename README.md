@@ -48,8 +48,8 @@ On **December 15, 2025**, our team conducted comprehensive laboratory validation
 
 **Documentation:**
 - [Complete Test Analysis](USM-test-analysis.md)
-- [Official Collaboration Letter](S44-Final-Surat%20kolaborasi%20USM%20-TEAM%202.pdf)
-- [Raw Laboratory Data](USM-test/STAR%20UV-VIS/15122025%20PVC%20Water.csv)
+- [Official Collaboration Letter](S44-Final-Surat-kolaborasi-USM-TEAM2.pdf)
+- [Raw Laboratory Data](USM-test/)
 - [Research Methodology](methodology.md)
 
 ### Development Timeline
