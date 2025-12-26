@@ -3,6 +3,7 @@ S44-Final-Surat kolaborasi USM -TEAM 2.pdf
 S43-usm NEW.pdf
 poster-infographics/
 github_qr/
+poster-illustrations/
 explore_data.py
 .claude/settings.local.json
 
@@ -42,3 +43,4 @@ venv/
 
 # Logs
 *.log
+journey.txt
