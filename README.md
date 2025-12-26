@@ -27,6 +27,8 @@ The system demonstrated **47% increase in particle size** and **37% reduction in
 
 **Read more:**
 - [Comprehensive Methodology](methodology.md)
+- [Results and Discussion](results-discussion.md)
+- [Innovation Aspects](innovation.md)
 - [Project Details](project.md)
 
 ## The Journey
@@ -140,6 +142,8 @@ These foundational papers informed our experimental design, electrode selection,
 electronet/
 ├── README.md                          # Project overview (this file)
 ├── methodology.md                     # Comprehensive research methodology
+├── results-discussion.md              # Results and discussion (poster format)
+├── innovation.md                      # Innovation aspects and unique features
 ├── journey.md                         # Complete development timeline
 ├── USM-test-analysis.md              # Laboratory results analysis
 ├── project.md                         # Detailed project description
