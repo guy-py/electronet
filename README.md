@@ -90,7 +90,7 @@ Testing was conducted on five water sample types to evaluate system versatility:
 - [USM Lab Testing](photos/usm_lab_testing/)
 
 #### Featured
-![ElectroNet Team](photo_6215351928753949568_y.jpg)
+![ElectroNet Team](SEKOLAH TUANKU ADBUL RAHMAN.pdf)
 
 ## Contributors
 
